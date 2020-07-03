@@ -1,0 +1,13 @@
+{
+  "login": {
+    "id": "UserName",
+    "password": "Password",
+    "button": "Login"
+  },
+  "error": {
+    "unexpected": "Something went wrong! Please try again"
+  },
+  "customerList": {
+    "title": "CustomerList"
+  }
+}
